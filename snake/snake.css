@@ -1,0 +1,32 @@
+/* snake.css */
+
+body {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    flex-direction: column;
+    margin: 0;
+}
+
+canvas {
+    border: 1px solid black;
+}
+
+#playAgain {
+    font-family: 'Courier New', Courier, monospace;
+    display: none;
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    align-self: center;
+    color: white;
+    background-color: black;
+    border-radius: 2rem;
+    height: 4rem;
+    width: 15rem;
+    text-size:3rem;
+}
