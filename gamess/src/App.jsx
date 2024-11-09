@@ -1,4 +1,3 @@
-// src/App.jsx
 import React from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import MainMenu from './Components/MainMenu';
@@ -27,10 +26,10 @@ function App() {
         <Route path="/mongo" element={<ItemList />} />
         <Route path="/signup" element={<SignupForm />} />
         <Route path="/login" element={<LoginForm />} />
-        
       </Routes>
     </Router>
   );
 }
 
 export default App;
+

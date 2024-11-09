@@ -5,7 +5,7 @@ function Game2048() {
   return (
     <div className="game-container">
       <iframe
-        src="/2048/index.html"
+        src="/2048/2048.html"
         title="2048 Game"
         style={{ width: '100%', height: '500px', border: 'none' }}
       />
