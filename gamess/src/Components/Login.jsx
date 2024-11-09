@@ -1,4 +1,6 @@
 import React, { useState } from 'react';
+import { useNavigate } from 'react-router-dom';
+
 
 function LoginForm() {
     const [username, setUsername] = useState('');
@@ -47,8 +49,10 @@ function LoginForm() {
                 </label>
                 <br />
                 <button type="submit">Login</button>
-                
             </form>
+            <p>
+                Do not have an account? <button onClick={handleSignUpRedirect}>Sign Up</button>
+            </p>
         </div>
     );
 }
