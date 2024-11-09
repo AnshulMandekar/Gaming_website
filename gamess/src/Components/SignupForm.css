@@ -1,0 +1,106 @@
+/* Center the form container with a soft beige background */
+.signup-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #EAE0C8; /* Soft Beige */
+    font-family: 'Orbitron', sans-serif;
+    color: #2f3a4e; /* Muted Charcoal for text */
+}
+
+/* Style the form with a clean white background */
+.signup-form {
+    width: 100%;
+    max-width: 400px;
+    padding: 25px;
+    border-radius: 10px;
+    background-color: #ffffff; /* White form background */
+    box-shadow: 0px 0px 15px rgba(47, 58, 78, 0.3); /* Subtle shadow for form */
+    color: #2f3a4e;
+}
+
+/* Form header with soft beige and a smooth appearance */
+.signup-form h2 {
+    text-align: center;
+    font-size: 24px;
+    color: #2f3a4e;
+    text-shadow: 0px 0px 6px #EAE0C8; /* Soft beige glow */
+    margin-bottom: 20px;
+}
+
+/* Input labels with a clean muted color */
+.signup-form label {
+    display: block;
+    font-weight: bold;
+    color: #2f3a4e;
+    margin-bottom: 10px;
+}
+
+/* Input fields with a soft beige border */
+.signup-form input[type="text"],
+.signup-form input[type="password"] {
+    width: 93%;
+    padding: 12px;
+    border-radius: 5px;
+    border: 1px solid #EAE0C8;
+    background-color: #f8f6f0;
+    color: #2f3a4e;
+    margin-bottom: 20px;
+    font-size: 14px;
+    box-shadow: 0px 0px 6px rgba(47, 58, 78, 0.1);
+}
+
+/* Button with a soft beige background and dark text */
+.signup-form button {
+    width: 100%;
+    padding: 12px;
+    font-size: 16px;
+    color: #ffffff;
+    background-color: #EAE0C8; /* Soft Beige */
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    text-shadow: 0px 0px 6px #2f3a4e;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.signup-form button:hover {
+    background-color: #c7b89b; /* Slightly darker beige on hover */
+    color: #ffffff;
+    box-shadow: 0px 0px 15px rgba(200, 184, 155, 0.8);
+}
+
+/* Text link with soft beige styling */
+.signup-form p {
+    text-align: center;
+    color: #888;
+    margin-top: 15px;
+    font-size: 12px;
+}
+
+.signup-form p a {
+    color: #EAE0C8;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.signup-form p a:hover {
+    color: #c7b89b;
+}
+
+/* Focus state for input fields */
+.signup-form input[type="text"]:focus,
+.signup-form input[type="password"]:focus {
+    outline: none;
+    border-color: #c7b89b;
+    box-shadow: 0px 0px 12px rgba(200, 184, 155, 0.8);
+}
+
+.background-image {
+    background-image: url("baige.jpg");
+    background-size: cover;
+    background-position: center;
+    filter: sepia(0.6) hue-rotate(20deg) saturate(0.8);
+    opacity: 0.9; /* Optional for a more subtle effect */
+}

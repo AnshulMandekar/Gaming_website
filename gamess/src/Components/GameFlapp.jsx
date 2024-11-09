@@ -7,7 +7,7 @@ function GameFlappyBird() {
       <iframe
         src="/flappybird/flappybird.html"
         title="Flappy Bird Game"
-        style={{ width: '100%', height: '500px', border: 'none' }}
+        style={{ width: '100%', height: '750px', border: 'none' }}
       />
     </div>
   );

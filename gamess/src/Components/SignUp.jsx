@@ -1,12 +1,14 @@
 import React, { useState } from 'react';
+import { useNavigate } from 'react-router-dom';
+import './SignupForm.css';
 
 function SignupForm() {
     const [username, setUsername] = useState('');
     const [password, setPassword] = useState('');
+    const navigate = useNavigate();
 
     const handleSubmit = async (event) => {
         event.preventDefault();
-
         const response = await fetch('http://localhost:3000/signup', {
             method: 'POST',
             headers: {
@@ -14,18 +16,18 @@ function SignupForm() {
             },
             body: JSON.stringify({ username, password }),
         });
-
         if (response.ok) {
             alert('Sign-up successful!');
+            navigate('/hub');
         } else {
             alert('Sign-up failed. Please try again.');
         }
     };
 
     return (
-        <div>
-            <h2>Sign Up</h2>
-            <form onSubmit={handleSubmit}>
+        <div className="signup-container">
+            <form onSubmit={handleSubmit} className="signup-form">
+                <h2>Sign Up</h2>
                 <label>
                     Username:
                     <input
@@ -35,7 +37,6 @@ function SignupForm() {
                         required
                     />
                 </label>
-                <br />
                 <label>
                     Password:
                     <input
@@ -45,7 +46,6 @@ function SignupForm() {
                         required
                     />
                 </label>
-                <br />
                 <button type="submit">Sign Up</button>
             </form>
         </div>
@@ -53,3 +53,4 @@ function SignupForm() {
 }
 
 export default SignupForm;
+
