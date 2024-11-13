@@ -1,5 +1,4 @@
-/* src/Components/GameHub.css */
-
+/* OG code :-
 .container {
     text-align: center;
     padding: 20px;
@@ -35,4 +34,144 @@
     font-weight: bold;
     margin-top: 10px;
   }
-  
+   */
+
+/* Container for the entire page */
+/* Container styling */
+/* Make the container cover the full viewport */
+/* Apply styles directly to the body */
+/* Apply styles directly to the body */
+body {
+  text-align: center;
+  padding: 20px;
+  background-image: url('https://i.postimg.cc/02P26vmg/baclground.jpg');
+  background-size: cover; /* Ensures the background image covers the entire screen */
+  background-position: center; /* Centers the background image */
+  background-attachment: fixed; /* Keeps the background fixed during scrolling */
+  color: #fff;
+  font-family: 'Arial', sans-serif;
+  height: 100vh; /* Set height to 100% of the viewport height */
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center; /* Center the content vertically */
+  align-items: center; /* Center the content horizontally */
+  margin: 0; /* Remove default body margin */
+}
+
+/* Styling for the header image */
+.header-image {
+  width: 450px;
+  height: auto;
+  margin-bottom: 40px;
+  /* margin-top: 100px; */
+  transition: transform 0.3s ease;
+}
+
+/* Hover effect for the header image */
+.header-image:hover {
+  transform: scale(1.1);
+}
+
+/* Header styling */
+h1 {
+  font-size: 3em;
+  margin-bottom: 40px;
+  color: #f39c12;
+  text-shadow: 3px 3px 5px rgba(255, 165, 35, 0.6);
+}
+
+/* Grid container for the game cards */
+.game-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+  justify-content: center;
+  width: 100%; /* Make sure the grid stretches full width */
+  max-width: 1200px; /* Optional: set a max-width for better control */
+  border: none;
+}
+
+/* Game card styling */
+.game-card {
+  text-decoration: none;
+  color: black;
+  text-align: center;
+  width: 215px;
+  height: 250px;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  border-radius: 15px;
+  /* background-color: rgba(51, 51, 51, 0.7); Semi-transparent background */
+  padding: 15px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.0);
+  overflow: hidden;
+}
+
+/* Hover effect on the game card */
+.game-card:hover {
+  transform: scale(1.05);
+
+}
+
+/* Game image styling */
+.game-card img {
+  width: 100%;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 8px;
+  transition: transform 0.3s ease;
+  box-shadow: 0 8px 15px #e0aaffcc;
+}
+
+/* Zoom effect on hover for the image */
+.game-card:hover img {
+  transform: scale(1.1);
+}
+
+/* Game name text styling */
+.game-card p {
+  font-weight: bold;
+  margin-top: 15px;
+  font-size: 1.2em;
+  color: whitesmoke;
+  text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.7);
+  transition: color 0.3s ease;
+}
+
+/* Change text color on hover */
+.game-card:hover p {
+  color: #f39c12;
+}
+
+/* Responsive adjustments for smaller screens */
+@media (max-width: 768px) {
+  h1 {
+    font-size: 2.5em;
+  }
+
+  .game-grid {
+    gap: 15px;
+  }
+
+  .game-card {
+    width: 160px;
+  }
+
+  .game-card img {
+    height: 120px;
+  }
+}
+
+@media (max-width: 480px) {
+  h1 {
+    font-size: 2em;
+  }
+
+  .game-card {
+    width: 130px;
+  }
+
+  .game-card img {
+    height: 100px;
+  }
+}

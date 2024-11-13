@@ -3,13 +3,19 @@ import React from 'react';
 
 function GameFlappyBird() {
   return (
-    <div className="game-container">
-      <iframe
-        src="/flappybird/flappybird.html"
-        title="Flappy Bird Game"
-        style={{ width: '100%', height: '750px', border: 'none' }}
-      />
-    </div>
+    <iframe
+      src="/flappybird/flappybird.html"
+      title="Flappy Bird Game"
+      style={{
+        width: '100vw',
+        height: '100vh',
+        border: 'none',
+        backgroundColor: "white",
+        position: 'fixed',
+        top: 0,
+        left: 0,
+      }}
+    />
   );
 }
 

@@ -7,6 +7,7 @@ import GameBreakout from './Components/GameBreakout';
 import GameFlappyBird from './Components/GameFlapp';
 import GameSnake from './Components/GameSnake';
 import GameTicTacToe from './Components/GameTic';
+import StickHero from './Components/GameStickHero';
 import './App.css';
 import ItemList from './Components/ItemList';
 import SignupForm from './Components/SignUp';
@@ -23,6 +24,7 @@ function App() {
         <Route path="/flappybird" element={<GameFlappyBird />} />
         <Route path="/snake" element={<GameSnake />} />
         <Route path="/tiktaktoe" element={<GameTicTacToe />} />
+        <Route path="/stickHero" element={<StickHero/>} />
         <Route path="/mongo" element={<ItemList />} />
         <Route path="/signup" element={<SignupForm />} />
         <Route path="/login" element={<LoginForm />} />

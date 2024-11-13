@@ -1,11 +1,12 @@
 // src/Components/GameSnake.jsx
+// src/Components/StickHero.jsx
 import React from 'react';
 
-function GameSnake() {
+function StickHero() {
   return (
     <iframe
-      src="/snake/snake.html"
-      title="Snake Game"
+      src="/stickHero/stickHero.html"
+      title="Stick Hero"
       style={{
         width: '100vw',
         height: '100vh',
@@ -19,4 +20,5 @@ function GameSnake() {
   );
 }
 
-export default GameSnake;
+export default StickHero;
+
