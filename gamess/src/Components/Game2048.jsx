@@ -1,16 +1,22 @@
-// src/Components/Game2048.jsx
 import React from 'react';
 
 function Game2048() {
   return (
-    <div className="game-container">
-      <iframe
-        src="/2048/2048.html"
-        title="2048 Game"
-        style={{ width: '100%', height: '500px', border: 'none' }}
-      />
-    </div>
+    <iframe
+      src="/2048/2048.html"
+      title="2048 Game"
+      style={{
+        width: '100vw',
+        height: '100vh',
+        border: 'none',
+        backgroundColor: 'white',
+        position: 'fixed',
+        top: 0,
+        left: 0,
+      }}
+    />
   );
 }
 
 export default Game2048;
+

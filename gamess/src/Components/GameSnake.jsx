@@ -3,13 +3,19 @@ import React from 'react';
 
 function GameSnake() {
   return (
-    <div className="game-container">
-      <iframe
-        src="/snake/snake.html"
-        title="Snake Game"
-        style={{ width: '100%', height: '500px', border: 'none' }}
-      />
-    </div>
+    <iframe
+      src="/snake/snake.html"
+      title="Snake Game"
+      style={{
+        width: '100vw',
+        height: '100vh',
+        border: 'none',
+        backgroundColor: 'white',
+        position: 'fixed',
+        top: 0,
+        left: 0,
+      }}
+    />
   );
 }
 
