@@ -13,3 +13,4 @@ app.use("/api/games", gamesRouter);
 app.use("/api/scores", scoresRouter);
 app.use(errorHandler);
 async function start() {
+  await connectDb();
