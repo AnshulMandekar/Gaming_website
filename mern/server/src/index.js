@@ -14,3 +14,4 @@ app.use("/api/scores", scoresRouter);
 app.use(errorHandler);
 async function start() {
   await connectDb();
+  app.listen(port, () => console.log(`API on http://localhost:${port}`));
