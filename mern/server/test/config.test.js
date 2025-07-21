@@ -5,3 +5,4 @@ test("config exposes a port", () => {
   assert.ok(port);
 });
 test("config exposes a mongo uri", () => {
+  assert.match(mongoUri, /^mongodb/);
