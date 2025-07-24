@@ -7,3 +7,4 @@ test("config exposes a port", () => {
 test("config exposes a mongo uri", () => {
   assert.match(mongoUri, /^mongodb/);
 });
+test("config exposes a client origin", () => {
