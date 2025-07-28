@@ -9,3 +9,4 @@ test("config exposes a mongo uri", () => {
 });
 test("config exposes a client origin", () => {
   assert.ok(clientOrigin.startsWith("http"));
+});
