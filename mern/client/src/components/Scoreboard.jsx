@@ -5,3 +5,4 @@ export default function Scoreboard({ gameId }) {
   useEffect(() => {
     fetchTopScores(gameId).then(setScores).catch(() => setScores([]));
   }, [gameId]);
+  return (
