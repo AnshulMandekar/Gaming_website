@@ -6,3 +6,4 @@ export default function Scoreboard({ gameId }) {
     fetchTopScores(gameId).then(setScores).catch(() => setScores([]));
   }, [gameId]);
   return (
+    <ol className="scoreboard">
