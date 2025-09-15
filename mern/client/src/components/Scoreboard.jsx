@@ -8,3 +8,4 @@ export default function Scoreboard({ gameId }) {
   return (
     <ol className="scoreboard">
       {scores.map((s) => (
+        <li key={s._id}>
