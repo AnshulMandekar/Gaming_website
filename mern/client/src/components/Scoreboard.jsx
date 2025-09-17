@@ -9,3 +9,4 @@ export default function Scoreboard({ gameId }) {
     <ol className="scoreboard">
       {scores.map((s) => (
         <li key={s._id}>
+          {s.player}: {s.value}
