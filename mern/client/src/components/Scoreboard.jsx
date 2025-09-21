@@ -11,3 +11,4 @@ export default function Scoreboard({ gameId }) {
         <li key={s._id}>
           {s.player}: {s.value}
         </li>
+      ))}
