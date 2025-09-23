@@ -12,3 +12,4 @@ export default function Scoreboard({ gameId }) {
           {s.player}: {s.value}
         </li>
       ))}
+    </ol>
