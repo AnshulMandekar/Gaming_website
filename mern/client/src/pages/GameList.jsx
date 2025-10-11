@@ -5,3 +5,4 @@ export default function GameList() {
   const [games, setGames] = useState([]);
   useEffect(() => {
     fetchGames().then(setGames).catch(() => setGames([]));
+  }, []);
