@@ -6,3 +6,4 @@ export default function GameList() {
   useEffect(() => {
     fetchGames().then(setGames).catch(() => setGames([]));
   }, []);
+  return (
