@@ -7,3 +7,4 @@ export default function GameList() {
     fetchGames().then(setGames).catch(() => setGames([]));
   }, []);
   return (
+    <main>
