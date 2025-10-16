@@ -8,3 +8,4 @@ export default function GameList() {
   }, []);
   return (
     <main>
+      <h1>Game Hub</h1>
