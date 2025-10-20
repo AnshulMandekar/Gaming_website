@@ -10,3 +10,4 @@ export default function GameList() {
     <main>
       <h1>Game Hub</h1>
       <ul>
+        {games.map((g) => (
