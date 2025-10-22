@@ -11,3 +11,4 @@ export default function GameList() {
       <h1>Game Hub</h1>
       <ul>
         {games.map((g) => (
+          <li key={g.slug}>
