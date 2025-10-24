@@ -12,3 +12,4 @@ export default function GameList() {
       <ul>
         {games.map((g) => (
           <li key={g.slug}>
+            <Link to={`/games/${g.slug}`}>{g.title}</Link>
