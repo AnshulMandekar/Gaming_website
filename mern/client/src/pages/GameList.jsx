@@ -14,3 +14,4 @@ export default function GameList() {
           <li key={g.slug}>
             <Link to={`/games/${g.slug}`}>{g.title}</Link>
           </li>
+        ))}
