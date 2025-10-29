@@ -15,3 +15,4 @@ export default function GameList() {
             <Link to={`/games/${g.slug}`}>{g.title}</Link>
           </li>
         ))}
+      </ul>
