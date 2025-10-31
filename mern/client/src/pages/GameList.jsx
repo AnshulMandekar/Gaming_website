@@ -16,3 +16,4 @@ export default function GameList() {
           </li>
         ))}
       </ul>
+    </main>
