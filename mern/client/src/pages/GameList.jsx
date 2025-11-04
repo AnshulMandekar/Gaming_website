@@ -18,3 +18,4 @@ export default function GameList() {
       </ul>
     </main>
   );
+}
