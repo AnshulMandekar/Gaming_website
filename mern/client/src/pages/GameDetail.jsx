@@ -4,3 +4,4 @@ import { fetchGame } from "../api/gamesApi";
 import Scoreboard from "../components/Scoreboard";
 export default function GameDetail() {
   const { slug } = useParams();
+  const [game, setGame] = useState(null);
