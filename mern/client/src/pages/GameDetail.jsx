@@ -7,3 +7,4 @@ export default function GameDetail() {
   const [game, setGame] = useState(null);
   useEffect(() => {
     fetchGame(slug).then(setGame).catch(() => setGame(null));
+  }, [slug]);
