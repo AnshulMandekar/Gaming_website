@@ -8,3 +8,4 @@ export default function GameDetail() {
   useEffect(() => {
     fetchGame(slug).then(setGame).catch(() => setGame(null));
   }, [slug]);
+  if (!game) return <p>Loading game...</p>;
