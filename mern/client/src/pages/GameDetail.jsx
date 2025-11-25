@@ -9,3 +9,4 @@ export default function GameDetail() {
     fetchGame(slug).then(setGame).catch(() => setGame(null));
   }, [slug]);
   if (!game) return <p>Loading game...</p>;
+  return (
