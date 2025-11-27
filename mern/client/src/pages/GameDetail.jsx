@@ -10,3 +10,4 @@ export default function GameDetail() {
   }, [slug]);
   if (!game) return <p>Loading game...</p>;
   return (
+    <main>
