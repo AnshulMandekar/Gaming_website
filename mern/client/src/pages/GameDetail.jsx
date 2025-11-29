@@ -11,3 +11,4 @@ export default function GameDetail() {
   if (!game) return <p>Loading game...</p>;
   return (
     <main>
+      <h1>{game.title}</h1>
