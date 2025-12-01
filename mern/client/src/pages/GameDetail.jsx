@@ -12,3 +12,4 @@ export default function GameDetail() {
   return (
     <main>
       <h1>{game.title}</h1>
+      <iframe src={game.path} title={game.title} />
