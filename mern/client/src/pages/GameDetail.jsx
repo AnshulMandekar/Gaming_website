@@ -14,3 +14,4 @@ export default function GameDetail() {
       <h1>{game.title}</h1>
       <iframe src={game.path} title={game.title} />
       <Scoreboard gameId={game._id} />
+    </main>
