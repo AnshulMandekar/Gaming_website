@@ -16,3 +16,4 @@ export default function GameDetail() {
       <Scoreboard gameId={game._id} />
     </main>
   );
+}
