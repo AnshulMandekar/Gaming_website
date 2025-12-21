@@ -4,3 +4,4 @@ import GameDetail from "./pages/GameDetail";
 export default function App() {
   return (
     <BrowserRouter>
+      <Routes>
