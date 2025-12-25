@@ -6,3 +6,4 @@ export default function App() {
     <BrowserRouter>
       <Routes>
         <Route path="/" element={<GameList />} />
+        <Route path="/games/:slug" element={<GameDetail />} />
