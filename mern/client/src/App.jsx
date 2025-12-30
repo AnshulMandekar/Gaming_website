@@ -9,3 +9,4 @@ export default function App() {
         <Route path="/games/:slug" element={<GameDetail />} />
       </Routes>
     </BrowserRouter>
+  );
