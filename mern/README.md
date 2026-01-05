@@ -4,3 +4,4 @@ Express serves the JSON API under /api.
 React (Vite) in gamess/ renders the hub.
 Node runs the server from mern/server.
 Start the API with npm run dev in mern/server.
+Set MONGO_URI in mern/server/.env.
