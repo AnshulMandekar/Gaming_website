@@ -8,3 +8,4 @@
     "test": "node --test test/"
   },
   "dependencies": {
+    "cors": "^2.8.5",
