@@ -6,3 +6,4 @@ services:
     volumes:
       - mongo-data:/data/db
   server:
+    build: ./server
