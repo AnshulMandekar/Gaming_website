@@ -7,3 +7,4 @@ services:
       - mongo-data:/data/db
   server:
     build: ./server
+    env_file: ./server/.env.example
