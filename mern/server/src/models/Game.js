@@ -5,3 +5,4 @@ const gameSchema = new mongoose.Schema({
   thumbnail: String,
   path: { type: String, required: true },
   createdAt: { type: Date, default: Date.now },
+});
