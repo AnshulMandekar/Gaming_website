@@ -4,3 +4,4 @@ const scoreSchema = new mongoose.Schema({
   player: { type: String, default: "anonymous" },
   value: { type: Number, required: true, min: 0 },
   playedAt: { type: Date, default: Date.now },
+});
