@@ -6,3 +6,4 @@ const scoreSchema = new mongoose.Schema({
   playedAt: { type: Date, default: Date.now },
 });
 scoreSchema.index({ game: 1, value: -1 });
+module.exports = mongoose.model("Score", scoreSchema);
