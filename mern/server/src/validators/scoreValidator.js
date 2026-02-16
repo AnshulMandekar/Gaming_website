@@ -1,0 +1,1 @@
+const MAX_SCORE = 1000000;
