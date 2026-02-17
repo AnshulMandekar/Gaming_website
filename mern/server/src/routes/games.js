@@ -4,3 +4,4 @@ const router = express.Router();
 router.get("/", async (req, res, next) => {
   try {
     const games = await Game.find().sort({ title: 1 });
+    res.json(games);
