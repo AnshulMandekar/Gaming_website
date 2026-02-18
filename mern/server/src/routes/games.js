@@ -6,3 +6,4 @@ router.get("/", async (req, res, next) => {
     const games = await Game.find().sort({ title: 1 });
     res.json(games);
   } catch (err) {
+    next(err);
