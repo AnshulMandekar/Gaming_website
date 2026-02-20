@@ -9,3 +9,4 @@ router.get("/", async (req, res, next) => {
     next(err);
   }
 });
+router.get("/:slug", async (req, res, next) => {
