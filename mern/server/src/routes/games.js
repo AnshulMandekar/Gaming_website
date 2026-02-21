@@ -11,3 +11,4 @@ router.get("/", async (req, res, next) => {
 });
 router.get("/:slug", async (req, res, next) => {
   try {
+    const game = await Game.findOne({ slug: req.params.slug });
