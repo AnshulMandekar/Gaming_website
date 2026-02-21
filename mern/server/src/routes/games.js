@@ -10,3 +10,4 @@ router.get("/", async (req, res, next) => {
   }
 });
 router.get("/:slug", async (req, res, next) => {
+  try {
