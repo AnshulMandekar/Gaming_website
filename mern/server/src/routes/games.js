@@ -15,3 +15,4 @@ router.get("/:slug", async (req, res, next) => {
     if (!game) return res.status(404).json({ message: "Game not found" });
     res.json(game);
   } catch (err) {
+    next(err);
