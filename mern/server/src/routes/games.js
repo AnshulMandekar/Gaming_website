@@ -16,3 +16,4 @@ router.get("/:slug", async (req, res, next) => {
     res.json(game);
   } catch (err) {
     next(err);
+  }
