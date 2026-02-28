@@ -5,3 +5,4 @@ function validateScore(body) {
   if (typeof body.value !== "number") errors.push("value must be a number");
   if (body.value > MAX_SCORE) errors.push("value is too large");
   return errors;
+}
