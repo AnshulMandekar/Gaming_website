@@ -6,3 +6,4 @@ function validateScore(body) {
   if (body.value > MAX_SCORE) errors.push("value is too large");
   return errors;
 }
+module.exports = { validateScore, MAX_SCORE };
