@@ -6,3 +6,4 @@ router.post("/", async (req, res, next) => {
     const score = await Score.create(req.body);
     res.status(201).json(score);
   } catch (err) {
+    next(err);
