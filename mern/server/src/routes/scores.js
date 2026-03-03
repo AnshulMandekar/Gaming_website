@@ -7,3 +7,4 @@ router.post("/", async (req, res, next) => {
     res.status(201).json(score);
   } catch (err) {
     next(err);
+  }
