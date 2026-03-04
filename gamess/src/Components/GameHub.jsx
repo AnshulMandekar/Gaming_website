@@ -53,7 +53,7 @@ function GameHub() {
           <p>FLAPPY BIRD</p>
         </Link>
         <Link to="/tiktaktoe" className="game-card">
-          <img src="https://i.postimg.cc/1tmQYd5r/image.png" alt="tictactoe" />
+          <img src="https://i.postimg.cc/1tmQYd5r/image.png" alt="Tic Tac Toe" />
           <p>TIC TAC TOE</p>
         </Link>
         <Link to="/breakout" className="game-card">
