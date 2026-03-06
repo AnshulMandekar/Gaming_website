@@ -11,3 +11,4 @@ router.post("/", async (req, res, next) => {
 });
 router.get("/:gameId", async (req, res, next) => {
   try {
+    const top = await Score.find({ game: req.params.gameId })
