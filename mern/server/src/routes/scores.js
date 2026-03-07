@@ -13,3 +13,4 @@ router.get("/:gameId", async (req, res, next) => {
   try {
     const top = await Score.find({ game: req.params.gameId })
       .sort({ value: -1 })
+      .limit(10);
