@@ -17,3 +17,4 @@ router.get("/:gameId", async (req, res, next) => {
     res.json(top);
   } catch (err) {
     next(err);
+  }
