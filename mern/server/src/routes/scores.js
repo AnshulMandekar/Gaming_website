@@ -19,3 +19,4 @@ router.get("/:gameId", async (req, res, next) => {
     next(err);
   }
 });
+module.exports = router;
