@@ -1,3 +1,4 @@
 // Loads the game list once for the Game Hub.
 import { useEffect, useState } from "react";
 import { fetchGames } from "../api/gamesApi";
+export function useGames() {
