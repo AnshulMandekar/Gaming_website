@@ -5,3 +5,4 @@ const games = [
   { slug: "breakout", title: "Breakout", path: "/breakout/breakout.html" },
   { slug: "flappybird", title: "Flappy Bird", path: "/flappybird/flappybird.html" },
   { slug: "snake", title: "Snake", path: "/snake/snake.html" },
+  { slug: "stickhero", title: "Stick Hero", path: "/stickHero/stickHero.html" },
