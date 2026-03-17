@@ -9,3 +9,4 @@ const games = [
   { slug: "tictactoe", title: "Tic Tac Toe", path: "/tiktaktoe/tiktaktoe.html" },
 ];
 async function seed() {
+  await connectDb();
