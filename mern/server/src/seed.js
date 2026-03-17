@@ -8,3 +8,4 @@ const games = [
   { slug: "stickhero", title: "Stick Hero", path: "/stickHero/stickHero.html" },
   { slug: "tictactoe", title: "Tic Tac Toe", path: "/tiktaktoe/tiktaktoe.html" },
 ];
+async function seed() {
