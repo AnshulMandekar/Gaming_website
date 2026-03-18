@@ -10,3 +10,4 @@ const games = [
 ];
 async function seed() {
   await connectDb();
+  for (const game of games) {
