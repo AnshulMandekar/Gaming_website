@@ -12,3 +12,4 @@ async function seed() {
   await connectDb();
   for (const game of games) {
     await Game.updateOne({ slug: game.slug }, game, { upsert: true });
+  }
