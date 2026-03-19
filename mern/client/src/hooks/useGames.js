@@ -6,3 +6,4 @@ export function useGames() {
   const [loading, setLoading] = useState(true);
   useEffect(() => {
     fetchGames()
+      .then(setGames)
