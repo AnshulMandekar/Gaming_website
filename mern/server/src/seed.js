@@ -13,3 +13,4 @@ async function seed() {
   for (const game of games) {
     await Game.updateOne({ slug: game.slug }, game, { upsert: true });
   }
+  console.log(`Seeded ${games.length} games`);
