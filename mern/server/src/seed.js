@@ -15,3 +15,4 @@ async function seed() {
   }
   console.log(`Seeded ${games.length} games`);
   process.exit(0);
+}
