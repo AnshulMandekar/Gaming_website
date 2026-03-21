@@ -7,3 +7,4 @@ export function useGames() {
   useEffect(() => {
     fetchGames()
       .then(setGames)
+      .catch(() => setGames([]))
