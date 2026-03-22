@@ -8,3 +8,4 @@ export function useGames() {
     fetchGames()
       .then(setGames)
       .catch(() => setGames([]))
+      .finally(() => setLoading(false));
