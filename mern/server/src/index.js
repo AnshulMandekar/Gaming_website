@@ -5,3 +5,4 @@ const { connectDb } = require("./db");
 const gamesRouter = require("./routes/games");
 const scoresRouter = require("./routes/scores");
 const errorHandler = require("./middleware/errorHandler");
+const app = express();
