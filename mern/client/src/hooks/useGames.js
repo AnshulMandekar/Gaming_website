@@ -10,3 +10,4 @@ export function useGames() {
       .catch(() => setGames([]))
       .finally(() => setLoading(false));
   }, []);
+  return { games, loading };
