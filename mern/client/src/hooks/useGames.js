@@ -11,3 +11,4 @@ export function useGames() {
       .finally(() => setLoading(false));
   }, []);
   return { games, loading };
+}
