@@ -7,3 +7,4 @@ const scoresRouter = require("./routes/scores");
 const errorHandler = require("./middleware/errorHandler");
 const app = express();
 app.use(cors({ origin: clientOrigin }));
+app.use(express.json());
