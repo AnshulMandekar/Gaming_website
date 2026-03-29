@@ -10,3 +10,4 @@ app.use(cors({ origin: clientOrigin }));
 app.use(express.json());
 app.get("/api/health", (req, res) => res.json({ ok: true }));
 app.use("/api/games", gamesRouter);
+app.use("/api/scores", scoresRouter);
