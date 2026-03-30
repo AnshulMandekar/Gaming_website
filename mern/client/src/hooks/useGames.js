@@ -12,3 +12,4 @@ export function useGames() {
   }, []);
   return { games, loading };
 }
+export default useGames;
