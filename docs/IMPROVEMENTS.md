@@ -6,3 +6,4 @@
 - 2026-04-04 — Snake: Show the best score on the card
 - 2026-04-05 — Stick Hero: Add a back-to-hub button
 - 2026-04-06 — Tic Tac Toe: Improve mobile touch controls
+- 2026-04-07 — Game Hub: Add a restart confirmation
