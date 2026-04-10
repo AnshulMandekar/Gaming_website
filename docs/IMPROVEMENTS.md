@@ -9,3 +9,4 @@
 - 2026-04-07 — Game Hub: Add a restart confirmation
 - 2026-04-08 — Login/Sign-up: Smooth animations with CSS transitions
 - 2026-04-09 — 2048: Add a dark/light theme toggle
+- 2026-04-10 — Breakout: Add keyboard shortcut hints
