@@ -189,3 +189,4 @@
 - 2026-04-03 15:39 — Snake: Improve tab order
 - 2026-04-11 9:07: — Breakout: Add alt text to images
 - 2026-04-11 11:20 — Flappy Bird: Clean unused variables
+- 2026-04-11 13:33 — Snake: Normalise spacing scale
