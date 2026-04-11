@@ -191,3 +191,4 @@
 - 2026-04-11 11:20 — Flappy Bird: Clean unused variables
 - 2026-04-11 13:33 — Snake: Normalise spacing scale
 - 2026-04-11 15:46 — Stick Hero: Compress large images
+- 2026-04-11 17:59 — Tic Tac Toe: Add alt text to images
