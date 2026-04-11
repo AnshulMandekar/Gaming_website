@@ -187,3 +187,4 @@
 - 2026-04-03 11:13 — Breakout: Cache static assets
 - 2026-04-03 13:26 — Flappy Bird: Improve page title and meta description
 - 2026-04-03 15:39 — Snake: Improve tab order
+- 2026-04-11 9:07: — Breakout: Add alt text to images
