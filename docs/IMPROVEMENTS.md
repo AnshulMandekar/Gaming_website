@@ -12,3 +12,4 @@
 - 2026-04-10 — Breakout: Add keyboard shortcut hints
 - 2026-04-11 — Flappy Bird: Add ARIA labels for accessibility
 - 2026-04-12 — Snake: Add difficulty levels
+- 2026-04-13 — Stick Hero: Show the best score on the card
