@@ -13,3 +13,4 @@
 - 2026-04-11 — Flappy Bird: Add ARIA labels for accessibility
 - 2026-04-12 — Snake: Add difficulty levels
 - 2026-04-13 — Stick Hero: Show the best score on the card
+- 2026-04-14 — Tic Tac Toe: Add a back-to-hub button
