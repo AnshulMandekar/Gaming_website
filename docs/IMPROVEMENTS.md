@@ -14,3 +14,4 @@
 - 2026-04-12 — Snake: Add difficulty levels
 - 2026-04-13 — Stick Hero: Show the best score on the card
 - 2026-04-14 — Tic Tac Toe: Add a back-to-hub button
+- 2026-04-15 — Game Hub: Improve mobile touch controls
