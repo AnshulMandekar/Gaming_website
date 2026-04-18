@@ -17,3 +17,4 @@
 - 2026-04-15 — Game Hub: Improve mobile touch controls
 - 2026-04-16 — Login/Sign-up: Add a restart confirmation
 - 2026-04-17 — 2048: Debounce rapid key presses
+- 2026-04-18 — Breakout: Add a dark/light theme toggle
