@@ -20,3 +20,4 @@
 - 2026-04-18 — Breakout: Add a dark/light theme toggle
 - 2026-04-19 — Flappy Bird: Add keyboard shortcut hints
 - 2026-04-20 — Snake: Add ARIA labels for accessibility
+- 2026-04-21 — Stick Hero: Add difficulty levels
