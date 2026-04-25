@@ -24,3 +24,4 @@
 - 2026-04-22 — Tic Tac Toe: Show the best score on the card
 - 2026-04-23 — Game Hub: Add a back-to-hub button
 - 2026-04-24 — Login/Sign-up: Improve mobile touch controls
+- 2026-04-25 — 2048: Show a loading state
