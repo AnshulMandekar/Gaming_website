@@ -26,3 +26,4 @@
 - 2026-04-24 — Login/Sign-up: Improve mobile touch controls
 - 2026-04-25 — 2048: Show a loading state
 - 2026-04-26 — Breakout: Debounce rapid key presses
+- 2026-04-27 — Flappy Bird: Add a dark/light theme toggle
