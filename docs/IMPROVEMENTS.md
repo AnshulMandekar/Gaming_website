@@ -199,3 +199,4 @@
 - 2026-04-27 9:21: — Snake: Cache static assets
 - 2026-04-27 11:34 — Stick Hero: Improve page title and meta description
 - 2026-04-27 13:47 — Tic Tac Toe: Improve tab order
+- 2026-04-27 15:00 — Game Hub: Tidy up CSS selectors
