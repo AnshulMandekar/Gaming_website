@@ -28,3 +28,4 @@
 - 2026-04-26 — Breakout: Debounce rapid key presses
 - 2026-04-27 — Flappy Bird: Add a dark/light theme toggle
 - 2026-04-28 — Snake: Add keyboard shortcut hints
+- 2026-04-29 — Stick Hero: Add ARIA labels for accessibility
