@@ -30,3 +30,4 @@
 - 2026-04-28 — Snake: Add keyboard shortcut hints
 - 2026-04-29 — Stick Hero: Add ARIA labels for accessibility
 - 2026-04-30 — Tic Tac Toe: Add difficulty levels
+- 2026-05-01 — Game Hub: Show the best score on the card
