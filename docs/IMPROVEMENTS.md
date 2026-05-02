@@ -31,3 +31,4 @@
 - 2026-04-29 — Stick Hero: Add ARIA labels for accessibility
 - 2026-04-30 — Tic Tac Toe: Add difficulty levels
 - 2026-05-01 — Game Hub: Show the best score on the card
+- 2026-05-02 — Login/Sign-up: Add a back-to-hub button
