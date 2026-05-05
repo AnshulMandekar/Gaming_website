@@ -202,3 +202,4 @@
 - 2026-04-27 15:00 — Game Hub: Tidy up CSS selectors
 - 2026-04-27 17:13 — Login/Sign-up: Cache static assets
 - 2026-05-05 9:28: — Stick Hero: Clean unused variables
+- 2026-05-05 11:41 — Tic Tac Toe: Normalise spacing scale
