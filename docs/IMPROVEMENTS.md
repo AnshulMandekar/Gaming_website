@@ -201,3 +201,4 @@
 - 2026-04-27 13:47 — Tic Tac Toe: Improve tab order
 - 2026-04-27 15:00 — Game Hub: Tidy up CSS selectors
 - 2026-04-27 17:13 — Login/Sign-up: Cache static assets
+- 2026-05-05 9:28: — Stick Hero: Clean unused variables
