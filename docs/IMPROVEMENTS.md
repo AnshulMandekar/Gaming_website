@@ -35,3 +35,4 @@
 - 2026-05-03 — 2048: Add a pause/resume button
 - 2026-05-04 — Breakout: Show a loading state
 - 2026-05-05 — Flappy Bird: Debounce rapid key presses
+- 2026-05-06 — Snake: Add a dark/light theme toggle
