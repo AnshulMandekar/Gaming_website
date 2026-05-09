@@ -38,3 +38,4 @@
 - 2026-05-06 — Snake: Add a dark/light theme toggle
 - 2026-05-07 — Stick Hero: Add keyboard shortcut hints
 - 2026-05-08 — Tic Tac Toe: Add ARIA labels for accessibility
+- 2026-05-09 — Game Hub: Add difficulty levels
