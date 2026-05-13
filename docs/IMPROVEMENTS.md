@@ -205,3 +205,4 @@
 - 2026-05-05 11:41 — Tic Tac Toe: Normalise spacing scale
 - 2026-05-05 13:54 — Game Hub: Compress large images
 - 2026-05-05 15:07 — Login/Sign-up: Add alt text to images
+- 2026-05-13 9:35: — Tic Tac Toe: Add error boundary message
