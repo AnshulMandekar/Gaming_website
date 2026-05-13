@@ -42,3 +42,4 @@
 - 2026-05-10 — Login/Sign-up: Show the best score on the card
 - 2026-05-11 — 2048: Reduce layout shift on load
 - 2026-05-12 — Breakout: Add a pause/resume button
+- 2026-05-13 — Flappy Bird: Show a loading state
