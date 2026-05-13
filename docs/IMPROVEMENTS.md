@@ -207,3 +207,4 @@
 - 2026-05-05 15:07 — Login/Sign-up: Add alt text to images
 - 2026-05-13 9:35: — Tic Tac Toe: Add error boundary message
 - 2026-05-13 11:48 — Game Hub: Add favicon
+- 2026-05-13 13:01 — Login/Sign-up: Add touch-friendly tap targets
