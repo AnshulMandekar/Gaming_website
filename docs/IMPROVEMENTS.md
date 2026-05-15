@@ -44,3 +44,4 @@
 - 2026-05-12 — Breakout: Add a pause/resume button
 - 2026-05-13 — Flappy Bird: Show a loading state
 - 2026-05-14 — Snake: Debounce rapid key presses
+- 2026-05-15 — Stick Hero: Add a dark/light theme toggle
