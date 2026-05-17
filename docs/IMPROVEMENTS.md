@@ -46,3 +46,4 @@
 - 2026-05-14 — Snake: Debounce rapid key presses
 - 2026-05-15 — Stick Hero: Add a dark/light theme toggle
 - 2026-05-16 — Tic Tac Toe: Add keyboard shortcut hints
+- 2026-05-17 — Game Hub: Add ARIA labels for accessibility
