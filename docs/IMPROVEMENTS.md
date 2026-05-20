@@ -49,3 +49,4 @@
 - 2026-05-17 — Game Hub: Add ARIA labels for accessibility
 - 2026-05-18 — Login/Sign-up: Add difficulty levels
 - 2026-05-19 — 2048: Add focus outlines for keyboard users
+- 2026-05-20 — Breakout: Reduce layout shift on load
