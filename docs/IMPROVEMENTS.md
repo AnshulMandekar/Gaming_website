@@ -212,3 +212,4 @@
 - 2026-05-13 17:27 — Breakout: Add error boundary message
 - 2026-05-21 9:42: — Game Hub: Improve page title and meta description
 - 2026-05-21 11:55 — Login/Sign-up: Improve tab order
+- 2026-05-21 13:08 — 2048: Tidy up CSS selectors
