@@ -51,3 +51,4 @@
 - 2026-05-19 — 2048: Add focus outlines for keyboard users
 - 2026-05-20 — Breakout: Reduce layout shift on load
 - 2026-05-21 — Flappy Bird: Add a pause/resume button
+- 2026-05-22 — Snake: Show a loading state
