@@ -53,3 +53,4 @@
 - 2026-05-21 — Flappy Bird: Add a pause/resume button
 - 2026-05-22 — Snake: Show a loading state
 - 2026-05-23 — Stick Hero: Debounce rapid key presses
+- 2026-05-24 — Tic Tac Toe: Add a dark/light theme toggle
