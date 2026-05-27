@@ -56,3 +56,4 @@
 - 2026-05-24 — Tic Tac Toe: Add a dark/light theme toggle
 - 2026-05-25 — Game Hub: Add keyboard shortcut hints
 - 2026-05-26 — Login/Sign-up: Add ARIA labels for accessibility
+- 2026-05-27 — 2048: Add a how-to-play overlay
