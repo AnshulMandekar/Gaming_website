@@ -218,3 +218,4 @@
 - 2026-05-29 11:02 — 2048: Compress large images
 - 2026-05-29 13:15 — Breakout: Add alt text to images
 - 2026-05-29 15:28 — Flappy Bird: Clean unused variables
+- 2026-05-29 17:41 — Snake: Normalise spacing scale
