@@ -58,3 +58,4 @@
 - 2026-05-26 — Login/Sign-up: Add ARIA labels for accessibility
 - 2026-05-27 — 2048: Add a how-to-play overlay
 - 2026-05-28 — Breakout: Add focus outlines for keyboard users
+- 2026-05-29 — Flappy Bird: Reduce layout shift on load
