@@ -215,3 +215,4 @@
 - 2026-05-21 13:08 — 2048: Tidy up CSS selectors
 - 2026-05-21 15:21 — Breakout: Cache static assets
 - 2026-05-29 9:49: — Login/Sign-up: Normalise spacing scale
+- 2026-05-29 11:02 — 2048: Compress large images
