@@ -216,3 +216,4 @@
 - 2026-05-21 15:21 — Breakout: Cache static assets
 - 2026-05-29 9:49: — Login/Sign-up: Normalise spacing scale
 - 2026-05-29 11:02 — 2048: Compress large images
+- 2026-05-29 13:15 — Breakout: Add alt text to images
