@@ -60,3 +60,4 @@
 - 2026-05-28 — Breakout: Add focus outlines for keyboard users
 - 2026-05-29 — Flappy Bird: Reduce layout shift on load
 - 2026-05-30 — Snake: Add a pause/resume button
+- 2026-05-31 — Stick Hero: Show a loading state
