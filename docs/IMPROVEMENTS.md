@@ -61,3 +61,4 @@
 - 2026-05-29 — Flappy Bird: Reduce layout shift on load
 - 2026-05-30 — Snake: Add a pause/resume button
 - 2026-05-31 — Stick Hero: Show a loading state
+- 2026-06-01 — Tic Tac Toe: Debounce rapid key presses
