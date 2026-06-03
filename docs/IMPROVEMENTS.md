@@ -63,3 +63,4 @@
 - 2026-05-31 — Stick Hero: Show a loading state
 - 2026-06-01 — Tic Tac Toe: Debounce rapid key presses
 - 2026-06-02 — Game Hub: Add a dark/light theme toggle
+- 2026-06-03 — Login/Sign-up: Add keyboard shortcut hints
