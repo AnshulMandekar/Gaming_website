@@ -221,3 +221,4 @@
 - 2026-05-29 17:41 — Snake: Normalise spacing scale
 - 2026-06-06 9:56: — 2048: Add favicon
 - 2026-06-06 11:09 — Breakout: Add touch-friendly tap targets
+- 2026-06-06 13:22 — Flappy Bird: Improve button hover states
