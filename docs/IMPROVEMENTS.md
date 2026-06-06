@@ -220,3 +220,4 @@
 - 2026-05-29 15:28 — Flappy Bird: Clean unused variables
 - 2026-05-29 17:41 — Snake: Normalise spacing scale
 - 2026-06-06 9:56: — 2048: Add favicon
+- 2026-06-06 11:09 — Breakout: Add touch-friendly tap targets
