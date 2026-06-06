@@ -66,3 +66,4 @@
 - 2026-06-03 — Login/Sign-up: Add keyboard shortcut hints
 - 2026-06-04 — 2048: Improve colour contrast
 - 2026-06-05 — Breakout: Add a how-to-play overlay
+- 2026-06-06 — Flappy Bird: Add focus outlines for keyboard users
