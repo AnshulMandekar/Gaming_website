@@ -69,3 +69,4 @@
 - 2026-06-06 — Flappy Bird: Add focus outlines for keyboard users
 - 2026-06-07 — Snake: Reduce layout shift on load
 - 2026-06-08 — Stick Hero: Add a pause/resume button
+- 2026-06-09 — Tic Tac Toe: Show a loading state
