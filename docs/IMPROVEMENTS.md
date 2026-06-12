@@ -72,3 +72,4 @@
 - 2026-06-09 — Tic Tac Toe: Show a loading state
 - 2026-06-10 — Game Hub: Debounce rapid key presses
 - 2026-06-11 — Login/Sign-up: Add a dark/light theme toggle
+- 2026-06-12 — 2048: Persist high score in localStorage
