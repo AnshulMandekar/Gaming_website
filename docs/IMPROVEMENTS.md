@@ -227,3 +227,4 @@
 - 2026-06-14 11:16 — Flappy Bird: Tidy up CSS selectors
 - 2026-06-14 13:29 — Snake: Cache static assets
 - 2026-06-14 15:42 — Stick Hero: Improve page title and meta description
+- 2026-06-14 17:55 — Tic Tac Toe: Improve tab order
