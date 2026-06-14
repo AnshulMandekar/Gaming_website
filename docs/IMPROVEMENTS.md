@@ -74,3 +74,4 @@
 - 2026-06-11 — Login/Sign-up: Add a dark/light theme toggle
 - 2026-06-12 — 2048: Persist high score in localStorage
 - 2026-06-13 — Breakout: Improve colour contrast
+- 2026-06-14 — Flappy Bird: Add a how-to-play overlay
