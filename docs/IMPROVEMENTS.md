@@ -223,3 +223,4 @@
 - 2026-06-06 11:09 — Breakout: Add touch-friendly tap targets
 - 2026-06-06 13:22 — Flappy Bird: Improve button hover states
 - 2026-06-06 15:35 — Snake: Add error boundary message
+- 2026-06-14 9:03: — Breakout: Improve tab order
