@@ -224,3 +224,4 @@
 - 2026-06-06 13:22 — Flappy Bird: Improve button hover states
 - 2026-06-06 15:35 — Snake: Add error boundary message
 - 2026-06-14 9:03: — Breakout: Improve tab order
+- 2026-06-14 11:16 — Flappy Bird: Tidy up CSS selectors
