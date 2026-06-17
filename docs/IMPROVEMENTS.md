@@ -77,3 +77,4 @@
 - 2026-06-14 — Flappy Bird: Add a how-to-play overlay
 - 2026-06-15 — Snake: Add focus outlines for keyboard users
 - 2026-06-16 — Stick Hero: Reduce layout shift on load
+- 2026-06-17 — Tic Tac Toe: Add a pause/resume button
