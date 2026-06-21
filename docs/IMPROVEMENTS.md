@@ -81,3 +81,4 @@
 - 2026-06-18 — Game Hub: Show a loading state
 - 2026-06-19 — Login/Sign-up: Debounce rapid key presses
 - 2026-06-20 — 2048: Validate form input with clear messages
+- 2026-06-21 — Breakout: Persist high score in localStorage
