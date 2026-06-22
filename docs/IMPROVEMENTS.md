@@ -228,3 +228,4 @@
 - 2026-06-14 13:29 — Snake: Cache static assets
 - 2026-06-14 15:42 — Stick Hero: Improve page title and meta description
 - 2026-06-14 17:55 — Tic Tac Toe: Improve tab order
+- 2026-06-22 9:10: — Flappy Bird: Compress large images
