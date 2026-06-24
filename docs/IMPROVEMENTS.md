@@ -84,3 +84,4 @@
 - 2026-06-21 — Breakout: Persist high score in localStorage
 - 2026-06-22 — Flappy Bird: Improve colour contrast
 - 2026-06-23 — Snake: Add a how-to-play overlay
+- 2026-06-24 — Stick Hero: Add focus outlines for keyboard users
