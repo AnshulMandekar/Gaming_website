@@ -86,3 +86,4 @@
 - 2026-06-23 — Snake: Add a how-to-play overlay
 - 2026-06-24 — Stick Hero: Add focus outlines for keyboard users
 - 2026-06-25 — Tic Tac Toe: Reduce layout shift on load
+- 2026-06-26 — Game Hub: Add a pause/resume button
