@@ -87,3 +87,4 @@
 - 2026-06-24 — Stick Hero: Add focus outlines for keyboard users
 - 2026-06-25 — Tic Tac Toe: Reduce layout shift on load
 - 2026-06-26 — Game Hub: Add a pause/resume button
+- 2026-06-27 — Login/Sign-up: Show a loading state
