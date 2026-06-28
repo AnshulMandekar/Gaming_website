@@ -88,3 +88,4 @@
 - 2026-06-25 — Tic Tac Toe: Reduce layout shift on load
 - 2026-06-26 — Game Hub: Add a pause/resume button
 - 2026-06-27 — Login/Sign-up: Show a loading state
+- 2026-06-28 — 2048: Add a game-over summary screen
