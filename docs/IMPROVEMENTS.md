@@ -235,3 +235,4 @@
 - 2026-06-30 9:17: — Snake: Add touch-friendly tap targets
 - 2026-06-30 11:30 — Stick Hero: Improve button hover states
 - 2026-06-30 13:43 — Tic Tac Toe: Add error boundary message
+- 2026-06-30 15:56 — Game Hub: Add favicon
