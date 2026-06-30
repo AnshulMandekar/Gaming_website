@@ -233,3 +233,4 @@
 - 2026-06-22 13:36 — Stick Hero: Clean unused variables
 - 2026-06-22 15:49 — Tic Tac Toe: Normalise spacing scale
 - 2026-06-30 9:17: — Snake: Add touch-friendly tap targets
+- 2026-06-30 11:30 — Stick Hero: Improve button hover states
