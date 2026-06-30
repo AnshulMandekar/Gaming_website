@@ -236,3 +236,4 @@
 - 2026-06-30 11:30 — Stick Hero: Improve button hover states
 - 2026-06-30 13:43 — Tic Tac Toe: Add error boundary message
 - 2026-06-30 15:56 — Game Hub: Add favicon
+- 2026-06-30 17:09 — Login/Sign-up: Add touch-friendly tap targets
