@@ -92,3 +92,4 @@
 - 2026-06-29 — Breakout: Validate form input with clear messages
 - 2026-06-30 — Flappy Bird: Persist high score in localStorage
 - 2026-07-01 — Snake: Improve colour contrast
+- 2026-07-02 — Stick Hero: Add a how-to-play overlay
