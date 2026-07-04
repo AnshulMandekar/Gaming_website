@@ -94,3 +94,4 @@
 - 2026-07-01 — Snake: Improve colour contrast
 - 2026-07-02 — Stick Hero: Add a how-to-play overlay
 - 2026-07-03 — Tic Tac Toe: Add focus outlines for keyboard users
+- 2026-07-04 — Game Hub: Reduce layout shift on load
