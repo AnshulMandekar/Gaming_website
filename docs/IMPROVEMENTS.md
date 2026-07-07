@@ -97,3 +97,4 @@
 - 2026-07-04 — Game Hub: Reduce layout shift on load
 - 2026-07-05 — Login/Sign-up: Add a pause/resume button
 - 2026-07-06 — 2048: Add responsive layout breakpoints
+- 2026-07-07 — Breakout: Add a game-over summary screen
