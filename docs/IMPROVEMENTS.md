@@ -240,3 +240,4 @@
 - 2026-07-08 9:24: — Stick Hero: Tidy up CSS selectors
 - 2026-07-08 11:37 — Tic Tac Toe: Cache static assets
 - 2026-07-08 13:50 — Game Hub: Improve page title and meta description
+- 2026-07-08 15:03 — Login/Sign-up: Improve tab order
