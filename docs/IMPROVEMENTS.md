@@ -98,3 +98,4 @@
 - 2026-07-05 — Login/Sign-up: Add a pause/resume button
 - 2026-07-06 — 2048: Add responsive layout breakpoints
 - 2026-07-07 — Breakout: Add a game-over summary screen
+- 2026-07-08 — Flappy Bird: Validate form input with clear messages
