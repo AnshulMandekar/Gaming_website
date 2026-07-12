@@ -102,3 +102,4 @@
 - 2026-07-09 — Snake: Persist high score in localStorage
 - 2026-07-10 — Stick Hero: Improve colour contrast
 - 2026-07-11 — Tic Tac Toe: Add a how-to-play overlay
+- 2026-07-12 — Game Hub: Add focus outlines for keyboard users
