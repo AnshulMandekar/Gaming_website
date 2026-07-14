@@ -104,3 +104,4 @@
 - 2026-07-11 — Tic Tac Toe: Add a how-to-play overlay
 - 2026-07-12 — Game Hub: Add focus outlines for keyboard users
 - 2026-07-13 — Login/Sign-up: Reduce layout shift on load
+- 2026-07-14 — 2048: Add sound mute toggle
