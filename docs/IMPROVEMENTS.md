@@ -106,3 +106,4 @@
 - 2026-07-13 — Login/Sign-up: Reduce layout shift on load
 - 2026-07-14 — 2048: Add sound mute toggle
 - 2026-07-15 — Breakout: Add responsive layout breakpoints
+- 2026-07-16 — Flappy Bird: Add a game-over summary screen
