@@ -112,3 +112,4 @@
 - 2026-07-19 — Tic Tac Toe: Improve colour contrast
 - 2026-07-20 — Game Hub: Add a how-to-play overlay
 - 2026-07-21 — Login/Sign-up: Add focus outlines for keyboard users
+- 2026-07-22 — 2048: Add a scoreboard of recent runs
