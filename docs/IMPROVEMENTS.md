@@ -118,3 +118,4 @@
 - 2026-07-25 — Snake: Add a game-over summary screen
 - 2026-07-26 — Stick Hero: Validate form input with clear messages
 - 2026-07-27 — Tic Tac Toe: Persist high score in localStorage
+- 2026-07-28 — Game Hub: Improve colour contrast
