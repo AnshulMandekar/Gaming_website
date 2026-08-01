@@ -254,3 +254,4 @@
 - 2026-08-01 11:58 — 2048: Improve page title and meta description
 - 2026-08-01 13:11 — Breakout: Improve tab order
 - 2026-08-01 15:24 — Flappy Bird: Tidy up CSS selectors
+- 2026-08-01 17:37 — Snake: Cache static assets
