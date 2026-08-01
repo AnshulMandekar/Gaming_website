@@ -252,3 +252,4 @@
 - 2026-07-24 15:17 — Breakout: Add touch-friendly tap targets
 - 2026-08-01 9:45: — Login/Sign-up: Cache static assets
 - 2026-08-01 11:58 — 2048: Improve page title and meta description
+- 2026-08-01 13:11 — Breakout: Improve tab order
