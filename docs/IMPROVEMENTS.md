@@ -122,3 +122,4 @@
 - 2026-07-29 — Login/Sign-up: Add a how-to-play overlay
 - 2026-07-30 — 2048: Lazy-load game iframes
 - 2026-07-31 — Breakout: Add a scoreboard of recent runs
+- 2026-08-01 — Flappy Bird: Add sound mute toggle
