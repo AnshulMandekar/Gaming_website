@@ -250,3 +250,4 @@
 - 2026-07-24 11:51 — Login/Sign-up: Add error boundary message
 - 2026-07-24 13:04 — 2048: Add favicon
 - 2026-07-24 15:17 — Breakout: Add touch-friendly tap targets
+- 2026-08-01 9:45: — Login/Sign-up: Cache static assets
