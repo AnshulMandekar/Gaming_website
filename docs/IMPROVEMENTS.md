@@ -124,3 +124,4 @@
 - 2026-07-31 — Breakout: Add a scoreboard of recent runs
 - 2026-08-01 — Flappy Bird: Add sound mute toggle
 - 2026-08-02 — Snake: Add responsive layout breakpoints
+- 2026-08-03 — Stick Hero: Add a game-over summary screen
