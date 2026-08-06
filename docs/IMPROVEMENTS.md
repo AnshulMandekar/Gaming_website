@@ -127,3 +127,4 @@
 - 2026-08-03 — Stick Hero: Add a game-over summary screen
 - 2026-08-04 — Tic Tac Toe: Validate form input with clear messages
 - 2026-08-05 — Game Hub: Persist high score in localStorage
+- 2026-08-06 — Login/Sign-up: Improve colour contrast
