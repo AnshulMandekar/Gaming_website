@@ -129,3 +129,4 @@
 - 2026-08-05 — Game Hub: Persist high score in localStorage
 - 2026-08-06 — Login/Sign-up: Improve colour contrast
 - 2026-08-07 — 2048: Smooth animations with CSS transitions
+- 2026-08-08 — Breakout: Lazy-load game iframes
