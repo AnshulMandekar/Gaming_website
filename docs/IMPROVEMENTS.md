@@ -130,3 +130,4 @@
 - 2026-08-06 — Login/Sign-up: Improve colour contrast
 - 2026-08-07 — 2048: Smooth animations with CSS transitions
 - 2026-08-08 — Breakout: Lazy-load game iframes
+- 2026-08-09 — Flappy Bird: Add a scoreboard of recent runs
