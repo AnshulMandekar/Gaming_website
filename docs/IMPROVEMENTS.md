@@ -257,3 +257,4 @@
 - 2026-08-01 17:37 — Snake: Cache static assets
 - 2026-08-09 9:52: — 2048: Clean unused variables
 - 2026-08-09 11:05 — Breakout: Normalise spacing scale
+- 2026-08-09 13:18 — Flappy Bird: Compress large images
