@@ -256,3 +256,4 @@
 - 2026-08-01 15:24 — Flappy Bird: Tidy up CSS selectors
 - 2026-08-01 17:37 — Snake: Cache static assets
 - 2026-08-09 9:52: — 2048: Clean unused variables
+- 2026-08-09 11:05 — Breakout: Normalise spacing scale
