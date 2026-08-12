@@ -133,3 +133,4 @@
 - 2026-08-09 — Flappy Bird: Add a scoreboard of recent runs
 - 2026-08-10 — Snake: Add sound mute toggle
 - 2026-08-11 — Stick Hero: Add responsive layout breakpoints
+- 2026-08-12 — Tic Tac Toe: Add a game-over summary screen
