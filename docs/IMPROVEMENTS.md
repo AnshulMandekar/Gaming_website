@@ -135,3 +135,4 @@
 - 2026-08-11 — Stick Hero: Add responsive layout breakpoints
 - 2026-08-12 — Tic Tac Toe: Add a game-over summary screen
 - 2026-08-13 — Game Hub: Validate form input with clear messages
+- 2026-08-14 — Login/Sign-up: Persist high score in localStorage
