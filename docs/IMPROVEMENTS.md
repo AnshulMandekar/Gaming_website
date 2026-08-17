@@ -261,3 +261,4 @@
 - 2026-08-09 15:31 — Snake: Add alt text to images
 - 2026-08-17 9:59: — Breakout: Add error boundary message
 - 2026-08-17 11:12 — Flappy Bird: Add favicon
+- 2026-08-17 13:25 — Snake: Add touch-friendly tap targets
