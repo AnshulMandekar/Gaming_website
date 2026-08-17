@@ -263,3 +263,4 @@
 - 2026-08-17 11:12 — Flappy Bird: Add favicon
 - 2026-08-17 13:25 — Snake: Add touch-friendly tap targets
 - 2026-08-17 15:38 — Stick Hero: Improve button hover states
+- 2026-08-17 17:51 — Tic Tac Toe: Add error boundary message
