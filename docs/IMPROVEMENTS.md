@@ -138,3 +138,4 @@
 - 2026-08-14 — Login/Sign-up: Persist high score in localStorage
 - 2026-08-15 — 2048: Add a restart confirmation
 - 2026-08-16 — Breakout: Smooth animations with CSS transitions
+- 2026-08-17 — Flappy Bird: Lazy-load game iframes
