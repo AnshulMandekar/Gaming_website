@@ -140,3 +140,4 @@
 - 2026-08-16 — Breakout: Smooth animations with CSS transitions
 - 2026-08-17 — Flappy Bird: Lazy-load game iframes
 - 2026-08-18 — Snake: Add a scoreboard of recent runs
+- 2026-08-19 — Stick Hero: Add sound mute toggle
