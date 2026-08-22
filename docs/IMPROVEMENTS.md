@@ -143,3 +143,4 @@
 - 2026-08-19 — Stick Hero: Add sound mute toggle
 - 2026-08-20 — Tic Tac Toe: Add responsive layout breakpoints
 - 2026-08-21 — Game Hub: Add a game-over summary screen
+- 2026-08-22 — Login/Sign-up: Validate form input with clear messages
