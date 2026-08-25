@@ -146,3 +146,4 @@
 - 2026-08-22 — Login/Sign-up: Validate form input with clear messages
 - 2026-08-23 — 2048: Improve mobile touch controls
 - 2026-08-24 — Breakout: Add a restart confirmation
+- 2026-08-25 — Flappy Bird: Smooth animations with CSS transitions
