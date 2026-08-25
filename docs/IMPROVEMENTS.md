@@ -264,3 +264,4 @@
 - 2026-08-17 13:25 — Snake: Add touch-friendly tap targets
 - 2026-08-17 15:38 — Stick Hero: Improve button hover states
 - 2026-08-17 17:51 — Tic Tac Toe: Add error boundary message
+- 2026-08-25 9:06: — Flappy Bird: Improve page title and meta description
