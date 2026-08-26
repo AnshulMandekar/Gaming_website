@@ -147,3 +147,4 @@
 - 2026-08-23 — 2048: Improve mobile touch controls
 - 2026-08-24 — Breakout: Add a restart confirmation
 - 2026-08-25 — Flappy Bird: Smooth animations with CSS transitions
+- 2026-08-26 — Snake: Lazy-load game iframes
