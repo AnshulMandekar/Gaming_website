@@ -149,3 +149,4 @@
 - 2026-08-25 — Flappy Bird: Smooth animations with CSS transitions
 - 2026-08-26 — Snake: Lazy-load game iframes
 - 2026-08-27 — Stick Hero: Add a scoreboard of recent runs
+- 2026-08-28 — Tic Tac Toe: Add sound mute toggle
