@@ -153,3 +153,4 @@
 - 2026-08-29 — Game Hub: Add responsive layout breakpoints
 - 2026-08-30 — Login/Sign-up: Add a game-over summary screen
 - 2026-08-31 — 2048: Add a back-to-hub button
+- 2026-09-01 — Breakout: Improve mobile touch controls
