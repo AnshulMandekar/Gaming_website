@@ -272,3 +272,4 @@
 - 2026-09-02 11:26 — Stick Hero: Compress large images
 - 2026-09-02 13:39 — Tic Tac Toe: Add alt text to images
 - 2026-09-02 15:52 — Game Hub: Clean unused variables
+- 2026-09-02 17:05 — Login/Sign-up: Normalise spacing scale
