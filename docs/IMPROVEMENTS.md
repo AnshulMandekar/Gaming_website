@@ -268,3 +268,4 @@
 - 2026-08-25 11:19 — Snake: Improve tab order
 - 2026-08-25 13:32 — Stick Hero: Tidy up CSS selectors
 - 2026-08-25 15:45 — Tic Tac Toe: Cache static assets
+- 2026-09-02 9:13: — Snake: Normalise spacing scale
