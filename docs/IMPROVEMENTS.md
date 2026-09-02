@@ -271,3 +271,4 @@
 - 2026-09-02 9:13: — Snake: Normalise spacing scale
 - 2026-09-02 11:26 — Stick Hero: Compress large images
 - 2026-09-02 13:39 — Tic Tac Toe: Add alt text to images
+- 2026-09-02 15:52 — Game Hub: Clean unused variables
