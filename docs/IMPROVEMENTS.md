@@ -154,3 +154,4 @@
 - 2026-08-30 — Login/Sign-up: Add a game-over summary screen
 - 2026-08-31 — 2048: Add a back-to-hub button
 - 2026-09-01 — Breakout: Improve mobile touch controls
+- 2026-09-02 — Flappy Bird: Add a restart confirmation
