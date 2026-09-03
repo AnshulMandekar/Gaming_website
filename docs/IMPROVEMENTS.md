@@ -155,3 +155,4 @@
 - 2026-08-31 — 2048: Add a back-to-hub button
 - 2026-09-01 — Breakout: Improve mobile touch controls
 - 2026-09-02 — Flappy Bird: Add a restart confirmation
+- 2026-09-03 — Snake: Smooth animations with CSS transitions
