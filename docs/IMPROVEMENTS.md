@@ -156,3 +156,4 @@
 - 2026-09-01 — Breakout: Improve mobile touch controls
 - 2026-09-02 — Flappy Bird: Add a restart confirmation
 - 2026-09-03 — Snake: Smooth animations with CSS transitions
+- 2026-09-04 — Stick Hero: Lazy-load game iframes
