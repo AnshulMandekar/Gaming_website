@@ -160,3 +160,4 @@
 - 2026-09-05 — Tic Tac Toe: Add a scoreboard of recent runs
 - 2026-09-06 — Game Hub: Add sound mute toggle
 - 2026-09-07 — Login/Sign-up: Add responsive layout breakpoints
+- 2026-09-08 — 2048: Show the best score on the card
