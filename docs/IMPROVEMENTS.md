@@ -161,3 +161,4 @@
 - 2026-09-06 — Game Hub: Add sound mute toggle
 - 2026-09-07 — Login/Sign-up: Add responsive layout breakpoints
 - 2026-09-08 — 2048: Show the best score on the card
+- 2026-09-09 — Breakout: Add a back-to-hub button
