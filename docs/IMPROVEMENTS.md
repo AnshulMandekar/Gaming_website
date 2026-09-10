@@ -273,3 +273,4 @@
 - 2026-09-02 13:39 — Tic Tac Toe: Add alt text to images
 - 2026-09-02 15:52 — Game Hub: Clean unused variables
 - 2026-09-02 17:05 — Login/Sign-up: Normalise spacing scale
+- 2026-09-10 9:20: — Stick Hero: Add favicon
