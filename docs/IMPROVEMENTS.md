@@ -275,3 +275,4 @@
 - 2026-09-02 17:05 — Login/Sign-up: Normalise spacing scale
 - 2026-09-10 9:20: — Stick Hero: Add favicon
 - 2026-09-10 11:33 — Tic Tac Toe: Add touch-friendly tap targets
+- 2026-09-10 13:46 — Game Hub: Improve button hover states
