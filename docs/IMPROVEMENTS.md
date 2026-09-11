@@ -163,3 +163,4 @@
 - 2026-09-08 — 2048: Show the best score on the card
 - 2026-09-09 — Breakout: Add a back-to-hub button
 - 2026-09-10 — Flappy Bird: Improve mobile touch controls
+- 2026-09-11 — Snake: Add a restart confirmation
