@@ -164,3 +164,4 @@
 - 2026-09-09 — Breakout: Add a back-to-hub button
 - 2026-09-10 — Flappy Bird: Improve mobile touch controls
 - 2026-09-11 — Snake: Add a restart confirmation
+- 2026-09-12 — Stick Hero: Smooth animations with CSS transitions
