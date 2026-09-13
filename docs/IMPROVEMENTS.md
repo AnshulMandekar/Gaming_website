@@ -165,3 +165,4 @@
 - 2026-09-10 — Flappy Bird: Improve mobile touch controls
 - 2026-09-11 — Snake: Add a restart confirmation
 - 2026-09-12 — Stick Hero: Smooth animations with CSS transitions
+- 2026-09-13 — Tic Tac Toe: Lazy-load game iframes
