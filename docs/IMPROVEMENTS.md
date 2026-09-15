@@ -167,3 +167,4 @@
 - 2026-09-12 — Stick Hero: Smooth animations with CSS transitions
 - 2026-09-13 — Tic Tac Toe: Lazy-load game iframes
 - 2026-09-14 — Game Hub: Add a scoreboard of recent runs
+- 2026-09-15 — Login/Sign-up: Add sound mute toggle
