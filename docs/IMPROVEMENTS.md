@@ -279,3 +279,4 @@
 - 2026-09-10 15:59 — Login/Sign-up: Add error boundary message
 - 2026-09-18 9:27: — Tic Tac Toe: Improve tab order
 - 2026-09-18 11:40 — Game Hub: Tidy up CSS selectors
+- 2026-09-18 13:53 — Login/Sign-up: Cache static assets
