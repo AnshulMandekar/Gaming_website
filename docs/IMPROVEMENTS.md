@@ -281,3 +281,4 @@
 - 2026-09-18 11:40 — Game Hub: Tidy up CSS selectors
 - 2026-09-18 13:53 — Login/Sign-up: Cache static assets
 - 2026-09-18 15:06 — 2048: Improve page title and meta description
+- 2026-09-18 17:19 — Breakout: Improve tab order
