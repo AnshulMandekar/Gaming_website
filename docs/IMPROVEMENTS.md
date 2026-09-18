@@ -277,3 +277,4 @@
 - 2026-09-10 11:33 — Tic Tac Toe: Add touch-friendly tap targets
 - 2026-09-10 13:46 — Game Hub: Improve button hover states
 - 2026-09-10 15:59 — Login/Sign-up: Add error boundary message
+- 2026-09-18 9:27: — Tic Tac Toe: Improve tab order
