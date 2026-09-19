@@ -171,3 +171,4 @@
 - 2026-09-16 — 2048: Add difficulty levels
 - 2026-09-17 — Breakout: Show the best score on the card
 - 2026-09-18 — Flappy Bird: Add a back-to-hub button
+- 2026-09-19 — Snake: Improve mobile touch controls
