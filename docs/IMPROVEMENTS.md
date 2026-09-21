@@ -173,3 +173,4 @@
 - 2026-09-18 — Flappy Bird: Add a back-to-hub button
 - 2026-09-19 — Snake: Improve mobile touch controls
 - 2026-09-20 — Stick Hero: Add a restart confirmation
+- 2026-09-21 — Tic Tac Toe: Smooth animations with CSS transitions
