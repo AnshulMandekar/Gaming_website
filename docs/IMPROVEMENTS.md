@@ -174,3 +174,4 @@
 - 2026-09-19 — Snake: Improve mobile touch controls
 - 2026-09-20 — Stick Hero: Add a restart confirmation
 - 2026-09-21 — Tic Tac Toe: Smooth animations with CSS transitions
+- 2026-09-22 — Game Hub: Lazy-load game iframes
