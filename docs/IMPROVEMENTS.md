@@ -175,3 +175,4 @@
 - 2026-09-20 — Stick Hero: Add a restart confirmation
 - 2026-09-21 — Tic Tac Toe: Smooth animations with CSS transitions
 - 2026-09-22 — Game Hub: Lazy-load game iframes
+- 2026-09-23 — Login/Sign-up: Add a scoreboard of recent runs
