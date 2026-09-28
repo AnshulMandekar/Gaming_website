@@ -180,3 +180,4 @@
 - 2026-09-25 — Breakout: Add difficulty levels
 - 2026-09-26 — Flappy Bird: Show the best score on the card
 - 2026-09-27 — Snake: Add a back-to-hub button
+- 2026-09-28 — Stick Hero: Improve mobile touch controls
