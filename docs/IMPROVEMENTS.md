@@ -181,3 +181,4 @@
 - 2026-09-26 — Flappy Bird: Show the best score on the card
 - 2026-09-27 — Snake: Add a back-to-hub button
 - 2026-09-28 — Stick Hero: Improve mobile touch controls
+- 2026-09-29 — Tic Tac Toe: Add a restart confirmation
