@@ -19,6 +19,12 @@ h1 {
     margin-bottom: 20px;
 }
 
+@media (max-width: 480px) {
+    h1 {
+        font-size: 2em;
+    }
+}
+
 .game-grid {
     display: flex;
     flex-wrap: wrap;
